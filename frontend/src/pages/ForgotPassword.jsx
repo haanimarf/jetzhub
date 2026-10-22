@@ -92,10 +92,6 @@ function ForgotPassword() {
             Remember your password?{' '}
             <Link to="/login">Sign in</Link>
           </p>
-
-          <p className="auth-security">
-            Secure access for authorised company personnel.
-          </p>
         </div>
       </section>
     </main>

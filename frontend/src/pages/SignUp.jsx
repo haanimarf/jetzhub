@@ -1,4 +1,3 @@
-
 import { useState } from 'react'
 import { Link } from 'react-router-dom'
 import './Auth.css'
@@ -139,10 +138,6 @@ export default function SignUp() {
 
           <p className="auth-switch">
             Already have an account? <Link to="/login">Sign in</Link>
-          </p>
-
-          <p className="auth-security">
-            Secure access for authorised company personnel.
           </p>
         </div>
       </section>

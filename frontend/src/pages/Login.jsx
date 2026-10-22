@@ -94,10 +94,6 @@ export default function Login() {
             Don't have an account?{' '}
             <Link to="/signup">Create account</Link>
           </p>
-
-          <p className="auth-security">
-            Secure access for authorised company personnel.
-          </p>
         </div>
       </section>
     </main>
